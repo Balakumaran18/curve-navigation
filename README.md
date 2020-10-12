@@ -6,7 +6,7 @@ My Flutter Task.
 
 This project is a starting point for a Flutter application. It show the view of the project below 
 
-<img src="https://github.com/Balakumaran18/BK/blob/master/project/Task/curve_navigation/test2.jpg" width="30%" height="20%">
+<img src="https://github.com/Balakumaran18/BK/blob/master/project/Task/curve_navigation/test2.jpg" width="35%" height="20%">
 
 ![Alt GIF](https://github.com/Balakumaran18/BK/blob/master/project/Task/curve_navigation/curved.gif)
 
